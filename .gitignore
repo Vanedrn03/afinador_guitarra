@@ -1,0 +1,14 @@
+# Archivos de audio (demasiado pesados para git)
+audioswav/
+*.wav
+*.mp3
+*.m4a
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
