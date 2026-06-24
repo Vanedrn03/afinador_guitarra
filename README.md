@@ -45,8 +45,7 @@ Este tipo de pipeline es usado en GuitarTuna, BossTuner, aplicaciones de DAW, y 
 
 ```
 afinador_guitarra/
-├── afinador_guitarra.ipynb      # Notebook principal con análisis completo
-├── afinador_guitarra_1.ipynb    # Versión mejorada con documentación académica
+├── afinador_guitarra_1.ipynb    # Versión del notebook presentada
 ├── audioswav/                   # Carpeta de audios grabados (no en git por tamaño)
 │   ├── 6(gruesa).wav           # E2 - Cuerda más grave
 │   ├── 5.wav                   # A2
